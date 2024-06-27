@@ -3,6 +3,7 @@ dockurr/windows-arm:latest
 ubuntu:latest
 sickcodes/docker-osx:sonoma
 darkatse/docker-osx-vnc
+archlinux
 #支持私库
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
