@@ -4,6 +4,7 @@ ubuntu:latest
 sickcodes/docker-osx:sonoma
 darkatse/docker-osx-vnc
 archlinux
+jellyfin/jellyfin
 #支持私库
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
