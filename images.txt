@@ -3,10 +3,12 @@ dockurr/windows-arm:latest
 ubuntu:24.04
 sickcodes/docker-osx
 darkatse/docker-osx-vnc
-archlinux
+archlinux:latest
 jellyfin/jellyfin
 sulinggg/openwrt
 registry
+chenzhaoyu94/chatgpt-web
+changhui/chattts_webui
 #支持私库
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
