@@ -6,6 +6,7 @@ darkatse/docker-osx-vnc
 archlinux
 jellyfin/jellyfin
 sulinggg/openwrt
+registry
 #支持私库
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
